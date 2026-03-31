@@ -2,4 +2,4 @@
 lucas_real_name <- "linear regression model" #my initials are LRM so 
 
 # print that object on the console
-print(lucas)
+print(lucas_real_name)
